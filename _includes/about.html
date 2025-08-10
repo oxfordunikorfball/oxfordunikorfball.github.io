@@ -10,7 +10,14 @@
     </div>
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
+        <h3 class="section-subheading">{{ site.data.sitetext[site.locale].about.heading | default: "" }}</h3>
         <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
+      </div>
+    </div>
+    <div class="row mt-5">
+      <div class="col-lg-8 mx-auto text-center">
+        <h3 class="section-subheading">{{ site.data.sitetext[site.locale].about.heading2 | default: "" }}</h3>
+        <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body2 | markdownify }}</div>
       </div>
     </div>
   </div>
@@ -26,7 +33,14 @@
     </div>
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
+        <h3 class="section-subheading">{{ site.data.sitetext.about.heading | default: "" }}</h3>
         <div class="large text-muted">{{ site.data.sitetext.about.body | markdownify }}</div>
+      </div>
+    </div>
+    <div class="row mt-5">
+      <div class="col-lg-8 mx-auto text-center">
+        <h3 class="section-subheading">{{ site.data.sitetext.about.heading2 | default: "" }}</h3>
+        <div class="large text-muted">{{ site.data.sitetext.about.body2 | markdownify }}</div>
       </div>
     </div>
   </div>

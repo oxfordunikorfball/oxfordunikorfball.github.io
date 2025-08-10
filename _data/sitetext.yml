@@ -17,31 +17,48 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Taster Sessions"
-    text: "Join us for a taster session!"
+    title: "Training Sessions"
+    text: "Join us for a training session!"
     section: services
     list:
       - title: "Mondays"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Join us for an open session on Monday nights from 7:30pm - 9pm. All are welcome, even if you've never played before!"
         icon: fas fa-basketball-ball #find more at https://fontawesome.com/icons
       - title: "Fridays"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        desc: "Members can join us for our Friday session from 7pm - 8:30pm."
+        icon: fas fa-calendar-day
       - title: "Location"
         desc: "We train at [Iffley Road Sports Centre](https://maps.app.goo.gl/tZ8nqtRvS4v2em9E7). Enter via the main entrance, then turn left and follow the signs to Acer Hall."
         icon: fas fa-map-marker-alt
+
+  about:
+    title: "About Us"
+    text: ""
+    heading: "OU Korfball Club"
+    body: "
+    The Oxford University Korfball Club was established just over 30 years ago, making it the oldest university korfball club in the country and the oldest korfball club outright in Oxfordshire. 
+    The rounded nature of the sport means our club ranges from freshers to staff and community members, and is **fully inclusive gender-wise**. 
+    We're a friendly and sociable club, but a competitive one too. 
+    We play in the weekly Oxfordshire league matches, the inter-university BUCS tournaments and Varsity matches against Cambridge every year.
+    <br><br>
+    Most of our players have **never** played Korfball before coming to Oxford and we're a club who care a lot about being as inclusive as possible for beginners so don't worry if you're not sure whether it's your sport for definite, just come and give it a try!
+    "
+    heading2: "What is Korfball?"
+    body2: "
+    Korfball is the Dutch cousin of basketball and netball. 
+    It's a mixed-gender sport which is all about tactics and teamwork, and less about how tall you are! 
+    Movement with the ball is less limited than netball and although you can shoot from anywhere on the pitch, importantly, players cannot shoot if closely marked. 
+    The team must therefore work together to create space in order to score. 
+    Teams consist of eight people and switch between attackers and defenders every two goals: players need to be confident in both positions. 
+    Korfball is inclusive to everyone, regardless of experience, and we welcome enquiries from those with a disability regarding the accessibility of Korfball.
+    "
+    section: about
 
   portfolio:
     title: "Gallery"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
-
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   team:
     title: "Meet Our Committee for 2025-2026"
