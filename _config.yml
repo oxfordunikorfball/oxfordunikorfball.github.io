@@ -14,16 +14,16 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+url    : "https://oxfordunikorfball.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Oxford University Korfball Club
 email      : oxfordunikorfball@gmail.com #this is also the email contact forms will go to
 description: "The official website of the Oxford University Korfball Club, providing information on our teams, training, and events."
 author     : Oxford University Korfball Club
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\OUKoC.jpeg
+  height: 150 #height in px, defaults to 52px
 
 locale: "en-GB" # See available languages in _data/sitetext.yml
 
