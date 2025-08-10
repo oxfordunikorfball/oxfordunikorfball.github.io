@@ -23,6 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
+    - title: "Constitution"
+      url: "https://users.ox.ac.uk/~korfball/docs/OUKoC_Complete_Constitution_2024.docx.pdf"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
