@@ -11,14 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Taster Sessions"
+    - title: "Training Sessions"
       section: services
-    - title: "Gallery"
-      section: portfolio
     - title: "About"
       section: about
-    - title: "Taster Sessions"
-      section: timeline
+    - title: "Gallery"
+      section: portfolio
     - title: "Committee"
       section: team
     - title: "Contact"
